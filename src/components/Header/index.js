@@ -1,7 +1,7 @@
 
 import {Link} from "react-router-dom"
 import './index.css'
-import Pdf from '../../data/VarsharaniBharateCV_200924.pdf';
+import Pdf from '../../data/VarsharaniBharateCV.pdf';
 
 const Header = () => {
     return(
